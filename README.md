@@ -1,16 +1,23 @@
-# React + Vite
+# 🌸 Nang Kyal Sin Thwe — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio website built with **React**, **Vite**, and **Tailwind CSS**, featuring a custom Black, Pink, and White aesthetic.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [https://nangkyalsinthwe.github.io/Portfolio-Website/](https://nangkyalsinthwe.github.io/Portfolio-Website/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
+- **Responsive Design:** Optimized for mobile, tablet, and desktop screens.
+- **Interactive CV Preview Modal:** View and download my PDF resume directly on the site with keyboard (`ESC`) support.
+- **Featured Projects Showcase:** Highlights front-end and back-end projects with live demos and GitHub source links.
+- **Working Contact Form:** Integrated with Web3Forms for direct email inquiries.
+- **Visitor Counter:** Live site view tracking powered by GoatCounter.
 
-## React Compiler
+## 🛠️ Tech Stack
+- **Frontend:** React, JavaScript (ES6+), Tailwind CSS, Vite
+- **Integrations:** Web3Forms API, GoatCounter, GitHub Pages
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Run Locally
+```bash
+git clone [https://github.com/nangkyalsinthwe/Portfolio-Website.git](https://github.com/nangkyalsinthwe/Portfolio-Website.git)
+cd Portfolio-Website
+npm install
+npm run dev
