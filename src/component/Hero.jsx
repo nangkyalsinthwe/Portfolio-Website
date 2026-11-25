@@ -1,7 +1,7 @@
 import github from "../assets/github.png";
 import linkedin from "../assets/linkedin.png";
 import instagram from "../assets/instagram.png";
-import profile from "../assets/profile.jpg";
+import profile from "../assets/nk.jpg";
 
 const Hero = () => {
   return (
@@ -15,7 +15,7 @@ const Hero = () => {
             <p className="text-xl md:text-2xl font-bold text-[#100f0f]">
               👋🏻 Hello, I am
             </p>
-            <h1 className="text-3xl sm:text-5xl lg:text-6xl tracking-tight leading-tight font-extrabold font-poppins text-pink-600">
+            <h1 className="text-3xl sm:text-5xl lg:text-6xl tracking-tight leading-tight font-extrabold font-poppins text-pink-600 whitespace-nowrap">
               Nang Kyal Sin Thwe
             </h1>
             <p className="text-pink-500 leading-relaxed text-lg md:text-xl font-semibold">
