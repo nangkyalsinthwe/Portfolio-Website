@@ -1,7 +1,7 @@
 import github from "../assets/github.png";
 import linkedin from "../assets/linkedin.png";
 import instagram from "../assets/instagram.png";
-import profile from "../assets/nk.jpg";
+import profile from "../assets/profile.jpg";
 
 const Hero = () => {
   return (
